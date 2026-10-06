@@ -26,11 +26,15 @@ Traditional gender-role attitudes are represented by the composite score constru
 Our study has two sets of hypotheses.
 
 **Mother's Education**
+
 **H0a:** Mother's education level is not associated with traditional gender-role attitudes.
+
 **H1a:** Mother's education level is associated with traditional gender-role attitudes.
 
 **Father's Education**
+
 **H0b:** Father's education level is not associated with traditional gender-role attitudes.
+
 **H1b:** Father's education level is associated with traditional gender-role attitudes.
 
 All statistical tests we will be conducting will be two-tailed because our hypotheses are looking at whether there is an association between the variables, rather than predicting a specific direction beforehand.
