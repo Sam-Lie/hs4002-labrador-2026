@@ -34,3 +34,7 @@ Our study has two sets of hypotheses.
 **H1b:** Father's education level is associated with traditional gender-role attitudes.
 
 All statistical tests we will be conducting will be two-tailed because our hypotheses are looking at whether there is an association between the variables, rather than predicting a specific direction beforehand.
+
+
+## Order to run things
+From the raw WVS_Wave_7_Singapore data in the data branch, run the 3 ipynb files in the code branch in order
