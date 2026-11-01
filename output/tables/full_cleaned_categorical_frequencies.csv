@@ -1,0 +1,15 @@
+Variable,Category,Frequency,Percentage of full sample (%)
+Mother's education,1 Lower,1302,64.7
+Mother's education,2 Middle,407,20.2
+Mother's education,3 Higher,177,8.8
+Mother's education,Missing,126,6.3
+Father's education,1 Lower,1106,55.0
+Father's education,2 Middle,463,23.0
+Father's education,3 Higher,258,12.8
+Father's education,Missing,185,9.2
+Own education,1 Lower,373,18.5
+Own education,2 Middle,613,30.5
+Own education,3 Higher,1022,50.8
+Own education,Missing,4,0.2
+"Female (1 = female, 0 = male)",0 Male,924,45.9
+"Female (1 = female, 0 = male)",1 Female,1088,54.1

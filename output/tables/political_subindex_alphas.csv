@@ -1,0 +1,9 @@
+Sub-index,N (complete cases),Cronbach's alpha
+"Authoritarian (Q242, Q245, Q248)",1827,0.569
+"Authoritarian + equal incomes (Q242, Q245, Q247, Q248)",1819,0.643
+"Economic (Q241, Q244, Q247)",1883,0.6
+"Economic without Q247 (Q241, Q244)",1906,0.529
+"Liberal (Q243, Q246)",1872,0.592
+"Liberal + importance of democracy (Q243, Q246, Q250)",1859,0.527
+"Regime evaluation (Q251, Q252)",1955,0.797
+"Regime evaluation + human rights (Q251, Q252, Q253_rev)",1927,0.704
