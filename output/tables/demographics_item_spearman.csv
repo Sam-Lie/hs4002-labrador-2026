@@ -1,0 +1,13 @@
+Item,Variable,N,Spearman rho,p-value,p < .05/12
+Q28 Working mother: children suffer,Age,2004,0.1446707316726627,7.689416878293572e-11,Yes
+Q28 Working mother: children suffer,Female,2004,-0.04521093496350094,0.04300233026555972,No
+Q28 Working mother: children suffer,Own education,2000,-0.11035332940944,7.529573933301445e-07,Yes
+Q29 Men better political leaders,Age,1988,0.23204564621468401,1.0328439770058609e-25,Yes
+Q29 Men better political leaders,Female,1988,-0.09356866598977345,2.9344938684352645e-05,Yes
+Q29 Men better political leaders,Own education,1984,-0.198825828349368,3.8938544347549353e-19,Yes
+Q30 University more important for boys,Age,2005,0.2861889479579519,4.210861056410698e-39,Yes
+Q30 University more important for boys,Female,2005,-0.11327152159659562,3.6724848921591895e-07,Yes
+Q30 University more important for boys,Own education,2001,-0.31336162167555903,7.732175453349192e-47,Yes
+Q31 Men better business executives,Age,1999,0.2789237324504061,4.811524655719103e-37,Yes
+Q31 Men better business executives,Female,1999,-0.1425793481287261,1.5185376849813328e-10,Yes
+Q31 Men better business executives,Own education,1995,-0.2317849214787824,9.659224480808592e-26,Yes
