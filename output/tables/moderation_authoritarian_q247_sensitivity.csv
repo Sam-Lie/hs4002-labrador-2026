@@ -1,0 +1,13 @@
+Model,Parent,Index,N,b3,p b3
+"One parent, no controls",Mother's education,Main (without Q247),1703,0.04109855670962225,0.00027160004818101255
+"One parent, no controls",Mother's education,With Q247,1703,0.03561553684543603,0.002242721961079232
+"One parent, no controls",Father's education,Main (without Q247),1650,0.02855769046865675,0.003638579655671214
+"One parent, no controls",Father's education,With Q247,1650,0.021693461850151412,0.032685507671272
+"Both parents, no controls",Mother's education,Main (without Q247),1636,0.036376699785476134,0.020226102583779215
+"Both parents, no controls",Mother's education,With Q247,1636,0.03555848759028817,0.028966109940041705
+"Both parents, no controls",Father's education,Main (without Q247),1636,0.00537232589008839,0.6913466827299121
+"Both parents, no controls",Father's education,With Q247,1636,-0.0017280318818643087,0.9024293588930703
+"Both parents, with controls",Mother's education,Main (without Q247),1636,0.04518744701647982,0.0023503999044117976
+"Both parents, with controls",Mother's education,With Q247,1636,0.045149137389777314,0.0034886662308909085
+"Both parents, with controls",Father's education,Main (without Q247),1636,0.008195314957836475,0.522603720680735
+"Both parents, with controls",Father's education,With Q247,1636,0.0017643204931839162,0.8950076820819477

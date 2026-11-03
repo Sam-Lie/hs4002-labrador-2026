@@ -1,0 +1,17 @@
+Item,Parent,Specification,N,Ordinal logit b,Odds ratio,p-value,p < .05/16,Same sign as binary logit
+Q28 Working mother: children suffer,Mother's education,No controls,1878,-0.2989979141007033,0.7415609562548744,1.6909491933296734e-05,Yes,Yes
+Q28 Working mother: children suffer,Mother's education,With controls,1878,-0.09836999905504644,0.9063135065684202,0.20920985594470154,No,No
+Q28 Working mother: children suffer,Father's education,No controls,1820,-0.2021678023793199,0.8169578289722861,0.0014221388696989063,Yes,Yes
+Q28 Working mother: children suffer,Father's education,With controls,1820,-0.010347070803171259,0.9897062759810731,0.8846359988883765,No,No
+Q29 Men better political leaders,Mother's education,No controls,1863,-0.4877964023140113,0.6139778647908897,3.0856656520426947e-12,Yes,Yes
+Q29 Men better political leaders,Mother's education,With controls,1863,-0.17473343415795287,0.8396808211642562,0.02707458846446574,No,Yes
+Q29 Men better political leaders,Father's education,No controls,1805,-0.4183795959164615,0.6581123642380774,6.608551194995325e-11,Yes,Yes
+Q29 Men better political leaders,Father's education,With controls,1805,-0.12240416129294963,0.8847906980767004,0.09007560222730569,No,No
+Q30 University more important for boys,Mother's education,No controls,1877,-0.4449530614973955,0.6408543560702188,1.000205180120248e-10,Yes,Yes
+Q30 University more important for boys,Mother's education,With controls,1877,0.01653504676079704,1.0166725072398561,0.8332223810746866,No,Yes
+Q30 University more important for boys,Father's education,No controls,1819,-0.3888490444963515,0.6778365854543861,4.998641466343574e-10,Yes,Yes
+Q30 University more important for boys,Father's education,With controls,1819,0.04732268831121489,1.048460280375874,0.507259421896368,No,Yes
+Q31 Men better business executives,Mother's education,No controls,1873,-0.4806057698729519,0.6184086649800716,6.6924061268253044e-12,Yes,Yes
+Q31 Men better business executives,Mother's education,With controls,1873,-0.08364860023694569,0.9197544007938213,0.2923794866627413,No,No
+Q31 Men better business executives,Father's education,No controls,1814,-0.44105082120338673,0.6433600094122195,4.375647897504627e-12,Yes,Yes
+Q31 Men better business executives,Father's education,With controls,1814,-0.08041888555700906,0.922729747257744,0.26421139996244014,No,No

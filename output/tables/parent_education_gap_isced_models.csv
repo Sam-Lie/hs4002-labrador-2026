@@ -1,0 +1,7 @@
+Model,Comparison,N,b,p-value
+Raw,Mother more educated vs Same level,1773,-0.20450962594945837,6.5423235692781574e-06
+Raw,Father more educated vs Same level,1773,-0.12152884475424944,4.2946012999203336e-05
+Same mother's ISCED level,Mother more educated vs Same level,1773,-0.0854535542274068,0.07817866382604637
+Same mother's ISCED level,Father more educated vs Same level,1773,-0.11591627241067479,0.00010594048748992698
+Both parents' ISCED levels,Mother more educated vs Same level,1773,-0.14251358299913192,0.011613337364307945
+Both parents' ISCED levels,Father more educated vs Same level,1773,-0.01563540814272127,0.7520738911832889
