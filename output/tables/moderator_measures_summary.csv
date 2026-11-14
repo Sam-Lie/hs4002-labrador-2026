@@ -1,0 +1,6 @@
+Measure,Items,Higher score means,Cronbach's alpha,Mean,SD
+science_optimism,"Q158, Q159, Q163",More optimistic about the benefits of science,0.6981364602148157,7.0961186073629845,1.557822887712469
+science_faith_morality,"Q160_rev, Q161_rev",Less worried that science undermines faith and morality,0.7048548220055852,5.320040383644624,1.9997593790568686
+authoritarian_democracy,"Q242, Q245, Q248",More likely to see authoritarian features as essential to democracy,0.5694364820620842,4.123882503192848,1.790449888512233
+liberal_democracy,"Q243, Q246",More likely to see free elections and civil rights as essential to democracy,0.5922368025328628,7.649038461538462,1.8329367179152034
+regime_evaluation,"Q251, Q252",More positive view of how democratic and satisfactory Singapore's system is,0.7965286570668078,6.734526854219949,1.6968601622120876
